@@ -5,6 +5,9 @@
 
 <h2>👨‍💻 Personal Projects:</h2>
 
+- <b>Linux Engineer(KKE)</b>
+  - [kodekloud linux Enginner](https://kodekloud-engineer.com/#!/user_profile?uid=16257490879924357)
+
 - <b>IP Locator/python project (Begginer)</b>
   - [Ip locator](https://github.com/Dreezydrey/silver-couscous)
 - <b>Ansible</b>
