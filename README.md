@@ -24,6 +24,7 @@
   - [CompTIA CySA+ ce Certification](https://www.credly.com/badges/d0c9ed4a-9818-496e-a3e1-e4fee770f86d/public_url)
   - [CompTIA Security Analytics Professional – CSAP Stackable Certification](https://www.credly.com/badges/4f78368a-e7a2-44be-880e-3a3ec865b143?source=linked_in_profile)
   - [CompTIA Security+ ce Certification](https://www.credly.com/badges/0051ba67-3de6-4570-993a-4135d59cd64d)
+  - [Foundations of Operationalizing MITRE ATT&CK](https://www.credly.com/earner/earned/badge/8fa93f0e-3ab1-4f83-b383-dbc3e886ae4f)
 
 <h2>Cloud Certifications</h2>
 
