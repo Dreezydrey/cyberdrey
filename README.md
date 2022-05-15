@@ -28,7 +28,7 @@
 
 <h2>Cloud Certifications</h2>
 
-   - [AWS Certified Cloud Practitioner](https://www.credly.com/badges/feebe329-71a7-452a-a553-8277740638ad?source=linked_in_profile)
+   - [AWS Certified Cloud Practitioner](https://www.credly.com/badges/feebe329-71a7-452a-a553-8277740638ad)
    - [Oracle Cloud Infrastructure 2021 Architect Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=54E8DC73B6C59891096E01408A07339DAD74010B1DBB317C706FEB93CDCE7AD5)
    - [Oracle Cloud Infrastructure Security 2021 Certified Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=A3BB0543155BC272A4B5E480267A6540EA4B0EBF9012511238B3B9FAD6BEAF9F)
  
