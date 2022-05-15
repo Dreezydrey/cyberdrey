@@ -13,7 +13,7 @@
 - <b>Ansible</b>
   - [Ansible tutorial](https://github.com/Dreezydrey/ansible_tutorials <b><i>(Linux study)</b></i>
 - <b>Tryhackme</b>
-  - [Tryhackme Cyber Defense Path](https://tryhackme.com/paths)
+  - [Tryhackme Cyber Defense Path](https://tryhackme.com/p/Delvink)
 - <b>Rangeforce</b>
   - [Persistence Challenge](https://www.credly.com/badges/22aeaade-cf4b-4456-bc27-a971254b756e?source=linked_in_profile)
 
